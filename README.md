@@ -9,4 +9,5 @@ This is my Vim configuration.
 Steps to use
 
 cp .bashrc .vim ~/
+
 cp -r vim ~/
